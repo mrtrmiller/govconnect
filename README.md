@@ -1,15 +1,19 @@
-# GovConnect Daily
+# GovConnect Daily v1.0
 
-A free static AP Government daily current-events website for classroom use.
+A free static website for a daily AP Government current-events activity.
 
 ## Files
 
 - `index.html` — page structure
-- `style.css` — Mesa Verde green/orange styling
-- `script.js` — daily rotation, feedback, matching activity
-- `news.json` — weekly current-event content
-- `UPDATE_GUIDE.md` — weekly update directions
+- `style.css` — Mesa Verde green/orange visual design
+- `script.js` — daily rotation, feedback, drag/drop, progress tracking
+- `news.json` — the only file you usually update each week
+- `UPDATE_GUIDE.md` — weekly update instructions
 
 ## Hosting
 
-Upload all files to GitHub Pages. Then embed the GitHub Pages URL in Google Sites.
+Upload all files to a GitHub repository, enable GitHub Pages, then embed the GitHub Pages URL in Google Sites using **Insert → Embed → URL**.
+
+## Privacy
+
+Student work and progress are stored only in the student's browser using local storage. No account, database, or online submission is required.

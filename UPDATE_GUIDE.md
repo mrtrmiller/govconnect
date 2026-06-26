@@ -1,80 +1,55 @@
-# GovConnect Daily: Weekly Update Guide
+# Weekly News Update Guide
 
-## Weekly routine
+## The basic weekly workflow
 
-1. Come back to ChatGPT and ask:
-   `Update GovConnect Daily for next week for Unit __ content. Keep summaries factual only. Give me the updated news.json file.`
+1. Come back to ChatGPT and say:
 
-2. Download the new `news.json` file.
+   `Update GovConnect Daily for next week for Unit ___ content. Keep summaries factual only.`
 
-3. Go to your GitHub repository for GovConnect.
+2. Ask for a new `news.json` file.
 
-4. Open the existing `news.json` file.
+3. Download the new `news.json`.
 
-5. Click the pencil/edit button or upload/replace the file.
+4. Go to your GitHub repository.
 
-6. Paste the new JSON or drag the replacement file into GitHub.
+5. Click `news.json`.
 
-7. Commit the change.
+6. Click the pencil/edit button or use **Add file → Upload files**.
 
-8. Open your Google Site and refresh the embedded GovConnect page.
+7. Replace the old `news.json` with the new file.
 
-## What usually changes weekly
+8. Click **Commit changes**.
 
-Only this file changes:
+9. Open or refresh your Google Site. The embedded GovConnect page should update after GitHub Pages refreshes.
 
-`news.json`
+## What belongs in news.json
 
-These files should usually stay the same:
+Each school day needs one story. The site rotates by date first. If the exact date is not found, it rotates by weekday.
 
-- `index.html`
-- `style.css`
-- `script.js`
+Each story should include:
 
-## Required format
+- `date`
+- `weekday`
+- `title`
+- `source`
+- `link`
+- factual `summary`
+- `keyPeople`
+- `coreIssue`
+- `unit`
+- `topic`
+- `vocabMatch`
+- `visualSteps`
+- `timeline`
+- `questions`
+- `mcq`
 
-The weekly file must keep this structure:
+## Suggested weekly prompt
 
-```json
-{
-  "weekTitle": "Unit 1: Foundations of American Democracy",
-  "updated": "2026-06-26",
-  "rotationMode": "weekday",
-  "days": [
-    {
-      "date": "2026-06-29",
-      "weekday": "Monday",
-      "title": "Article title",
-      "source": "News source",
-      "link": "https://source-link.com/article",
-      "summary": "Factual summary only.",
-      "keyPeople": "People or groups involved.",
-      "coreIssue": "Central disagreement or issue.",
-      "unit": "Unit 1: Foundations of American Democracy",
-      "topic": "Topic label",
-      "vocabMatch": [
-        {"term":"Federalism", "clue":"Article detail that matches the term."}
-      ],
-      "visualSteps": ["Step 1", "Step 2", "Step 3"],
-      "timeline": ["Timeline item 1", "Timeline item 2"],
-      "questions": {
-        "q3":"Question 3 text",
-        "q5":"Question 5 text",
-        "q7":"Question 7 text",
-        "q9":"Question 9 text"
-      },
-      "mcq": {
-        "question":"Multiple choice question",
-        "choices":["A", "B", "C", "D"],
-        "answer":"A"
-      }
-    }
-  ]
-}
-```
+Copy and paste this:
 
-## Troubleshooting
+`Update GovConnect Daily for next week for AP Government Unit ___. Use five reputable free sources. Keep summaries factual only and do not make the AP connections for students. Include one story per school day, one vocabulary drag-and-drop activity per article, one AP-style MCQ, and questions 3, 5, 7, and 9 with feedback targets. Output only a downloadable news.json file that works with GovConnect v1.0.`
 
-- If the page looks unchanged, wait a minute and refresh.
-- If the page breaks, check that the JSON file has no missing commas or quotation marks.
-- If you open the folder directly from your computer, `news.json` may not load. Test it through GitHub Pages.
+## Best practice
+
+Do not paste full copyrighted articles into the app. Use links, factual summaries in original language, and your own instructional questions.

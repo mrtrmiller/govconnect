@@ -1,0 +1,351 @@
+{
+  "course": "Government",
+  "teacherNote": "Update this file every Sunday. Keep the same structure and replace only the story content.",
+  "week": {
+    "monday": {
+      "title": "Government Sample Story for Monday",
+      "summary": "This is placeholder news text for Government. On Sunday, replace this paragraph with a short factual summary of one real news story. Keep the writing clear, neutral, and student-friendly. Students should use the activities below to connect the story to course concepts.",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "tags": [
+        "Branches of Government",
+        "Current Event"
+      ],
+      "vocabulary": [
+        {
+          "term": "Law",
+          "definition": "A key Government idea students can use to understand the story."
+        },
+        {
+          "term": "Executive Branch",
+          "definition": "A second concept that helps explain who has power or influence."
+        },
+        {
+          "term": "Federal Court",
+          "definition": "A term connected to the people, institutions, or choices in the news."
+        },
+        {
+          "term": "Public Policy",
+          "definition": "A big-picture idea that helps students connect facts to class content."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which detail from the summary is most important for understanding the government, economic, or historical issue?",
+          "options": [
+            "A person or institution made a choice",
+            "The story has no connection to class",
+            "Only opinions matter",
+            "The headline alone is enough evidence"
+          ],
+          "answer": 0,
+          "correctFeedback": "Correct. Students should identify the actor, institution, or decision first.",
+          "incorrectFeedback": "Not quite. Start by identifying who acted and what decision or event occurred."
+        },
+        {
+          "prompt": "Which course idea best fits this story?",
+          "options": [
+            "Law",
+            "Executive Branch",
+            "Federal Court",
+            "Public Policy"
+          ],
+          "answer": 0,
+          "correctFeedback": "Good. This term can help explain the story with course language.",
+          "incorrectFeedback": "Review the vocabulary terms and choose the concept most directly connected to the event."
+        },
+        {
+          "prompt": "What should a strong written response include?",
+          "options": [
+            "A claim, evidence from the summary, and a course concept",
+            "Only personal opinion",
+            "A copied sentence with no explanation",
+            "A question instead of an answer"
+          ],
+          "answer": 0,
+          "correctFeedback": "Yes. Strong responses connect evidence to a course idea.",
+          "incorrectFeedback": "Try again. A strong response needs a clear answer, evidence, and course vocabulary."
+        }
+      ],
+      "written": {
+        "prompt": "Explain which part of government is involved and what power or responsibility it is using."
+      },
+      "exitTicket": "What is one question this story raises for you about power, choices, rights, or change?"
+    },
+    "tuesday": {
+      "title": "Government Sample Story for Tuesday",
+      "summary": "This is placeholder news text for Government. On Sunday, replace this paragraph with a short factual summary of one real news story. Keep the writing clear, neutral, and student-friendly. Students should use the activities below to connect the story to course concepts.",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "tags": [
+        "Civic Participation",
+        "Current Event"
+      ],
+      "vocabulary": [
+        {
+          "term": "Law",
+          "definition": "A key Government idea students can use to understand the story."
+        },
+        {
+          "term": "Executive Branch",
+          "definition": "A second concept that helps explain who has power or influence."
+        },
+        {
+          "term": "Federal Court",
+          "definition": "A term connected to the people, institutions, or choices in the news."
+        },
+        {
+          "term": "Public Policy",
+          "definition": "A big-picture idea that helps students connect facts to class content."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which detail from the summary is most important for understanding the government, economic, or historical issue?",
+          "options": [
+            "A person or institution made a choice",
+            "The story has no connection to class",
+            "Only opinions matter",
+            "The headline alone is enough evidence"
+          ],
+          "answer": 0,
+          "correctFeedback": "Correct. Students should identify the actor, institution, or decision first.",
+          "incorrectFeedback": "Not quite. Start by identifying who acted and what decision or event occurred."
+        },
+        {
+          "prompt": "Which course idea best fits this story?",
+          "options": [
+            "Law",
+            "Executive Branch",
+            "Federal Court",
+            "Public Policy"
+          ],
+          "answer": 1,
+          "correctFeedback": "Good. This term can help explain the story with course language.",
+          "incorrectFeedback": "Review the vocabulary terms and choose the concept most directly connected to the event."
+        },
+        {
+          "prompt": "What should a strong written response include?",
+          "options": [
+            "A claim, evidence from the summary, and a course concept",
+            "Only personal opinion",
+            "A copied sentence with no explanation",
+            "A question instead of an answer"
+          ],
+          "answer": 0,
+          "correctFeedback": "Yes. Strong responses connect evidence to a course idea.",
+          "incorrectFeedback": "Try again. A strong response needs a clear answer, evidence, and course vocabulary."
+        }
+      ],
+      "written": {
+        "prompt": "Explain which part of government is involved and what power or responsibility it is using."
+      },
+      "exitTicket": "What is one question this story raises for you about power, choices, rights, or change?"
+    },
+    "wednesday": {
+      "title": "Government Sample Story for Wednesday",
+      "summary": "This is placeholder news text for Government. On Sunday, replace this paragraph with a short factual summary of one real news story. Keep the writing clear, neutral, and student-friendly. Students should use the activities below to connect the story to course concepts.",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "tags": [
+        "Rights and Responsibilities",
+        "Current Event"
+      ],
+      "vocabulary": [
+        {
+          "term": "Law",
+          "definition": "A key Government idea students can use to understand the story."
+        },
+        {
+          "term": "Executive Branch",
+          "definition": "A second concept that helps explain who has power or influence."
+        },
+        {
+          "term": "Federal Court",
+          "definition": "A term connected to the people, institutions, or choices in the news."
+        },
+        {
+          "term": "Public Policy",
+          "definition": "A big-picture idea that helps students connect facts to class content."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which detail from the summary is most important for understanding the government, economic, or historical issue?",
+          "options": [
+            "A person or institution made a choice",
+            "The story has no connection to class",
+            "Only opinions matter",
+            "The headline alone is enough evidence"
+          ],
+          "answer": 0,
+          "correctFeedback": "Correct. Students should identify the actor, institution, or decision first.",
+          "incorrectFeedback": "Not quite. Start by identifying who acted and what decision or event occurred."
+        },
+        {
+          "prompt": "Which course idea best fits this story?",
+          "options": [
+            "Law",
+            "Executive Branch",
+            "Federal Court",
+            "Public Policy"
+          ],
+          "answer": 2,
+          "correctFeedback": "Good. This term can help explain the story with course language.",
+          "incorrectFeedback": "Review the vocabulary terms and choose the concept most directly connected to the event."
+        },
+        {
+          "prompt": "What should a strong written response include?",
+          "options": [
+            "A claim, evidence from the summary, and a course concept",
+            "Only personal opinion",
+            "A copied sentence with no explanation",
+            "A question instead of an answer"
+          ],
+          "answer": 0,
+          "correctFeedback": "Yes. Strong responses connect evidence to a course idea.",
+          "incorrectFeedback": "Try again. A strong response needs a clear answer, evidence, and course vocabulary."
+        }
+      ],
+      "written": {
+        "prompt": "Explain which part of government is involved and what power or responsibility it is using."
+      },
+      "exitTicket": "What is one question this story raises for you about power, choices, rights, or change?"
+    },
+    "thursday": {
+      "title": "Government Sample Story for Thursday",
+      "summary": "This is placeholder news text for Government. On Sunday, replace this paragraph with a short factual summary of one real news story. Keep the writing clear, neutral, and student-friendly. Students should use the activities below to connect the story to course concepts.",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "tags": [
+        "Public Policy",
+        "Current Event"
+      ],
+      "vocabulary": [
+        {
+          "term": "Law",
+          "definition": "A key Government idea students can use to understand the story."
+        },
+        {
+          "term": "Executive Branch",
+          "definition": "A second concept that helps explain who has power or influence."
+        },
+        {
+          "term": "Federal Court",
+          "definition": "A term connected to the people, institutions, or choices in the news."
+        },
+        {
+          "term": "Public Policy",
+          "definition": "A big-picture idea that helps students connect facts to class content."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which detail from the summary is most important for understanding the government, economic, or historical issue?",
+          "options": [
+            "A person or institution made a choice",
+            "The story has no connection to class",
+            "Only opinions matter",
+            "The headline alone is enough evidence"
+          ],
+          "answer": 0,
+          "correctFeedback": "Correct. Students should identify the actor, institution, or decision first.",
+          "incorrectFeedback": "Not quite. Start by identifying who acted and what decision or event occurred."
+        },
+        {
+          "prompt": "Which course idea best fits this story?",
+          "options": [
+            "Law",
+            "Executive Branch",
+            "Federal Court",
+            "Public Policy"
+          ],
+          "answer": 3,
+          "correctFeedback": "Good. This term can help explain the story with course language.",
+          "incorrectFeedback": "Review the vocabulary terms and choose the concept most directly connected to the event."
+        },
+        {
+          "prompt": "What should a strong written response include?",
+          "options": [
+            "A claim, evidence from the summary, and a course concept",
+            "Only personal opinion",
+            "A copied sentence with no explanation",
+            "A question instead of an answer"
+          ],
+          "answer": 0,
+          "correctFeedback": "Yes. Strong responses connect evidence to a course idea.",
+          "incorrectFeedback": "Try again. A strong response needs a clear answer, evidence, and course vocabulary."
+        }
+      ],
+      "written": {
+        "prompt": "Explain which part of government is involved and what power or responsibility it is using."
+      },
+      "exitTicket": "What is one question this story raises for you about power, choices, rights, or change?"
+    },
+    "friday": {
+      "title": "Government Sample Story for Friday",
+      "summary": "This is placeholder news text for Government. On Sunday, replace this paragraph with a short factual summary of one real news story. Keep the writing clear, neutral, and student-friendly. Students should use the activities below to connect the story to course concepts.",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "tags": [
+        "Elections",
+        "Current Event"
+      ],
+      "vocabulary": [
+        {
+          "term": "Law",
+          "definition": "A key Government idea students can use to understand the story."
+        },
+        {
+          "term": "Executive Branch",
+          "definition": "A second concept that helps explain who has power or influence."
+        },
+        {
+          "term": "Federal Court",
+          "definition": "A term connected to the people, institutions, or choices in the news."
+        },
+        {
+          "term": "Public Policy",
+          "definition": "A big-picture idea that helps students connect facts to class content."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which detail from the summary is most important for understanding the government, economic, or historical issue?",
+          "options": [
+            "A person or institution made a choice",
+            "The story has no connection to class",
+            "Only opinions matter",
+            "The headline alone is enough evidence"
+          ],
+          "answer": 0,
+          "correctFeedback": "Correct. Students should identify the actor, institution, or decision first.",
+          "incorrectFeedback": "Not quite. Start by identifying who acted and what decision or event occurred."
+        },
+        {
+          "prompt": "Which course idea best fits this story?",
+          "options": [
+            "Law",
+            "Executive Branch",
+            "Federal Court",
+            "Public Policy"
+          ],
+          "answer": 0,
+          "correctFeedback": "Good. This term can help explain the story with course language.",
+          "incorrectFeedback": "Review the vocabulary terms and choose the concept most directly connected to the event."
+        },
+        {
+          "prompt": "What should a strong written response include?",
+          "options": [
+            "A claim, evidence from the summary, and a course concept",
+            "Only personal opinion",
+            "A copied sentence with no explanation",
+            "A question instead of an answer"
+          ],
+          "answer": 0,
+          "correctFeedback": "Yes. Strong responses connect evidence to a course idea.",
+          "incorrectFeedback": "Try again. A strong response needs a clear answer, evidence, and course vocabulary."
+        }
+      ],
+      "written": {
+        "prompt": "Explain which part of government is involved and what power or responsibility it is using."
+      },
+      "exitTicket": "What is one question this story raises for you about power, choices, rights, or change?"
+    }
+  }
+}

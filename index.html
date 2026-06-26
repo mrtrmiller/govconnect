@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>What's Happening in the US today?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand-wrap">
+      <div class="logo" aria-hidden="true">US</div>
+      <div>
+        <h1>What's Happening in the US today?</h1>
+        <p class="subtitle">And why does it matter?</p>
+      </div>
+    </div>
+    <button id="copyWorkBtn" class="primary-btn">Copy My Work</button>
+  </header>
+
+  <main>
+    <section class="top-grid" aria-label="Daily government current event">
+      <article id="dailyCard" class="card hero-card"></article>
+
+      <aside class="card response-card">
+        <p class="eyebrow">Student Response</p>
+        <h2>Connect the event to AP Government</h2>
+        <div class="prompt-box">
+          <strong>Claim:</strong> What AP Government concept best explains this event?<br><br>
+          <strong>Evidence:</strong> What detail from the news summary supports your claim?<br><br>
+          <strong>Reasoning:</strong> Why does this matter in our constitutional system?
+        </div>
+        <label class="sr-only" for="dailyResponse">Daily AP Government response</label>
+        <textarea id="dailyResponse" placeholder="Write your claim, evidence, and reasoning here..."></textarea>
+        <div class="button-row">
+          <button id="checkDailyBtn" class="primary-btn">Check My Work</button>
+          <button id="clearFeedbackBtn" class="secondary-btn">Clear</button>
+        </div>
+        <div id="dailyFeedback" class="feedback-panel hidden" aria-live="polite"></div>
+        <p class="small-note">Feedback runs locally in the browser. No student work is submitted or saved online.</p>
+      </aside>
+    </section>
+
+    <section id="lessonFlow" class="lesson-flow" aria-label="Daily lesson flow"></section>
+    <section id="dailyTasks" class="task-grid" aria-label="Daily student tasks"></section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite">Copied!</div>
+  <script src="script.js"></script>
+</body>
+</html>

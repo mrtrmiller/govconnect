@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>What's Happening in the U.S. Today? | Civics Edition</title>
+  <meta name="description" content="Daily civics current-events learning tool for American Government." />
+  <link rel="stylesheet" href="../shared/css/design-system.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container hero-grid">
+      <div>
+        <span class="kicker">🇺🇸 Civics Edition v1.0</span>
+        <h1>What's Happening in the U.S. Today?</h1>
+        <p class="subtitle">And why does it matter?</p>
+        <div class="meta-row" id="metaRow">
+          <span class="pill orange">🕐 5–8 minutes</span>
+          <span class="pill">📖 Read</span>
+          <span class="pill">🎯 Practice</span>
+          <span class="pill">🏁 Finish</span>
+        </div>
+        <nav class="day-tabs" id="dayTabs" aria-label="Choose a weekday"></nav>
+      </div>
+      <aside class="hero-card">
+        <div class="section-label">This Week</div>
+        <h2 id="weekTheme">Loading...</h2>
+        <p id="weekDescription">Preparing today's civics story.</p>
+      </aside>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="app" class="grid" aria-live="polite"></div>
+    <p class="footer-note">Teacher update: replace the active JSON file in <strong>civics-daily/news/</strong>. No HTML editing needed.</p>
+  </main>
+
+  <script src="config.js"></script>
+  <script src="../shared/js/civics-engine.js"></script>
+</body>
+</html>

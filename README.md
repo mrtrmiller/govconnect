@@ -1,19 +1,34 @@
-# GovConnect Daily v1.0
+# GovConnect v2.0
 
-A free static website for a daily AP Government current-events activity.
+GovConnect is a GitHub Pages-ready suite of Social Science current-events apps.
 
-## Files
+## Apps included
 
-- `index.html` — page structure
-- `style.css` — Mesa Verde green/orange visual design
-- `script.js` — daily rotation, feedback, drag/drop, progress tracking
-- `news.json` — the only file you usually update each week
-- `UPDATE_GUIDE.md` — weekly update instructions
+- `ap-gov/` — AP Government current-events app
+- `civics-daily/` — On-level American Government / Civics app
+- `shared/` — shared design system and scripts
+- `index.html` — landing page for all apps
 
-## Hosting
+## Links after publishing
 
-Upload all files to a GitHub repository, enable GitHub Pages, then embed the GitHub Pages URL in Google Sites using **Insert → Embed → URL**.
+Replace `mrtrmiller` only if your GitHub username changes.
 
-## Privacy
+- Main landing page: `https://mrtrmiller.github.io/govconnect/`
+- AP Gov: `https://mrtrmiller.github.io/govconnect/ap-gov/`
+- Civics: `https://mrtrmiller.github.io/govconnect/civics-daily/`
 
-Student work and progress are stored only in the student's browser using local storage. No account, database, or online submission is required.
+## Weekly updates
+
+For AP Gov, edit:
+
+```text
+ap-gov/news.json
+```
+
+For Civics, edit:
+
+```text
+civics-daily/news/week01.json
+```
+
+No HTML editing is needed for normal weekly updates.

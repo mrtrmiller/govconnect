@@ -1,0 +1,206 @@
+{
+  "theme": "How Government Affects Daily Life",
+  "description": "This sample week helps students connect current events to branches, levels, laws, rights, and citizenship.",
+  "days": [
+    {
+      "day": "Monday",
+      "date": "Sample Monday",
+      "focus": "Congress",
+      "focusIcon": "🏛",
+      "headline": "Congress Debates a New Bill About Online Safety",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "U.S. Capitol building",
+      "quickFacts": [
+        "Congress is made up of the House of Representatives and the Senate.",
+        "A bill is an idea for a law.",
+        "Public debate helps citizens understand different sides of an issue."
+      ],
+      "summary": [
+        "Members of Congress are debating a bill that would create new rules for online safety. Supporters say the bill could help protect young people from harmful content and make technology companies more responsible.",
+        "Other lawmakers are asking questions about free speech and privacy. They want to make sure the government does not create rules that go too far. This shows how Congress often has to balance safety, rights, and responsibility.",
+        "Citizens can follow the debate, contact elected officials, and pay attention to how lawmakers explain their votes. In a democracy, laws are shaped by both government leaders and public opinion."
+      ],
+      "vocabulary": [
+        {"term":"Congress", "match":"The branch of government that debates and writes laws."},
+        {"term":"Bill", "match":"An idea for a law that has not been approved yet."},
+        {"term":"Rights", "match":"Freedoms protected by law, such as speech or privacy."}
+      ],
+      "question": {
+        "prompt": "Which part of government is debating the new bill?",
+        "options": ["Congress", "The Supreme Court", "The President", "A city council"],
+        "answerIndex": 0,
+        "correctFeedback": "Correct. Congress debates bills and decides whether they should become laws.",
+        "incorrectFeedback": "Almost. The article describes lawmakers debating a bill, which is the job of Congress."
+      },
+      "reflection": {
+        "prompt": "How could a law about online safety affect students or families in your community?",
+        "keywords": ["students", "families", "rights", "safety", "law", "privacy"],
+        "shortFeedback": "Good start. Add one more sentence explaining who would be affected and why.",
+        "strongFeedback": "Nice work. You connected the law to real people and explained why the issue matters.",
+        "coachingFeedback": "Good writing. Try using a word like rights, safety, privacy, or law in your answer."
+      },
+      "connections": ["Rights", "Laws", "Government Power", "Citizenship"],
+      "takeaway": "Congress makes decisions that can affect daily life, but lawmakers also have to consider citizens' rights."
+    },
+    {
+      "day": "Tuesday",
+      "date": "Sample Tuesday",
+      "focus": "Executive Branch",
+      "focusIcon": "👤",
+      "headline": "The President Announces a New Plan for Emergency Preparedness",
+      "image": "https://images.unsplash.com/photo-1569956726918-b36bd5e659b4?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Emergency workers preparing supplies",
+      "quickFacts": [
+        "The President leads the executive branch.",
+        "The executive branch carries out laws and manages federal agencies.",
+        "Emergency planning often involves federal, state, and local government."
+      ],
+      "summary": [
+        "The President announced a plan to help communities prepare for emergencies like fires, storms, and floods. The plan asks federal agencies to work with state and local leaders before disasters happen.",
+        "This is an example of the executive branch carrying out public policy. The President does not write laws alone, but the executive branch manages programs and helps put laws into action.",
+        "For citizens, emergency preparedness can affect evacuation routes, shelters, warning systems, and support after a disaster. Government action can shape how quickly communities respond when people need help."
+      ],
+      "vocabulary": [
+        {"term":"President", "match":"The leader of the executive branch."},
+        {"term":"Public Policy", "match":"A government plan for dealing with a public issue."},
+        {"term":"Federal Government", "match":"The national government that serves the whole country."}
+      ],
+      "question": {
+        "prompt": "What is the executive branch mainly responsible for?",
+        "options": ["Carrying out laws", "Deciding court cases", "Writing all state laws", "Running private businesses"],
+        "answerIndex": 0,
+        "correctFeedback": "Correct. The executive branch carries out and enforces laws.",
+        "incorrectFeedback": "Not quite. The article explains that the executive branch helps put laws and policies into action."
+      },
+      "reflection": {
+        "prompt": "Why might emergency planning require more than one level of government?",
+        "keywords": ["federal", "state", "local", "community", "emergency", "help"],
+        "shortFeedback": "Good start. Add one example of a level of government, such as federal, state, or local.",
+        "strongFeedback": "Strong response. You explained why different levels of government may need to work together.",
+        "coachingFeedback": "Try naming at least one level of government and explaining what it might do during an emergency."
+      },
+      "connections": ["Government Power", "Federalism", "Public Policy", "Citizenship"],
+      "takeaway": "The executive branch helps carry out policies that can protect communities during emergencies."
+    },
+    {
+      "day": "Wednesday",
+      "date": "Sample Wednesday",
+      "focus": "Courts",
+      "focusIcon": "⚖️",
+      "headline": "A Court Case Raises Questions About Student Speech",
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Courtroom with judge bench",
+      "quickFacts": [
+        "Courts interpret laws and the Constitution.",
+        "Student speech can involve First Amendment rights.",
+        "Court decisions can set rules that schools and citizens must follow."
+      ],
+      "summary": [
+        "A court is considering a case about student speech at school. The case asks when schools can limit what students say and when student expression is protected by the Constitution.",
+        "Judges listen to arguments from both sides. One side may argue that schools need rules to keep students safe and focused. The other side may argue that students do not lose their rights when they enter school.",
+        "Cases like this matter because court decisions can affect more than one person. A ruling can guide schools, students, families, and government officials in the future."
+      ],
+      "vocabulary": [
+        {"term":"Court", "match":"A place where judges interpret laws and settle legal questions."},
+        {"term":"Constitution", "match":"The basic plan of government and rights in the United States."},
+        {"term":"Free Speech", "match":"The right to express ideas, with some limits."}
+      ],
+      "question": {
+        "prompt": "What do courts do in the U.S. government system?",
+        "options": ["Interpret laws", "Command the military", "Collect all taxes", "Run elections"],
+        "answerIndex": 0,
+        "correctFeedback": "Correct. Courts interpret laws and decide legal questions.",
+        "incorrectFeedback": "Try again. The article explains that judges interpret laws and the Constitution."
+      },
+      "reflection": {
+        "prompt": "Why should students understand their rights and responsibilities at school?",
+        "keywords": ["rights", "responsibilities", "school", "speech", "rules", "students"],
+        "shortFeedback": "Good start. Add one sentence about rights or responsibilities.",
+        "strongFeedback": "Great connection. You explained why rights and responsibilities both matter at school.",
+        "coachingFeedback": "Try using the words rights and responsibilities in your answer."
+      },
+      "connections": ["Rights", "Laws", "Government Power"],
+      "takeaway": "Courts help decide how laws and constitutional rights apply in real situations."
+    },
+    {
+      "day": "Thursday",
+      "date": "Sample Thursday",
+      "focus": "State Government",
+      "focusIcon": "🌎",
+      "headline": "A State Government Considers New Rules for Water Use",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Water flowing through a river landscape",
+      "quickFacts": [
+        "State governments make many rules that affect daily life.",
+        "Water, schools, roads, and public safety often involve state policy.",
+        "Citizens can contact state representatives about local concerns."
+      ],
+      "summary": [
+        "State leaders are considering new rules about water use. The goal is to help communities save water while still supporting homes, farms, and businesses.",
+        "This issue shows the importance of state government. Not every decision is made in Washington, D.C. State governments often make policies based on the needs of their own communities.",
+        "Citizens may not agree on the best solution. Some people may want stronger rules to protect resources. Others may worry about costs for families or businesses. Civic participation helps leaders hear different concerns."
+      ],
+      "vocabulary": [
+        {"term":"State Government", "match":"Government that makes decisions for one state."},
+        {"term":"Policy", "match":"A plan or rule created to address a problem."},
+        {"term":"Citizen", "match":"A member of a community who has rights and responsibilities."}
+      ],
+      "question": {
+        "prompt": "Why is this story mainly connected to state government?",
+        "options": ["State leaders are considering rules for their state", "The Supreme Court is choosing a president", "A private company is writing the Constitution", "Only Congress can make water rules"],
+        "answerIndex": 0,
+        "correctFeedback": "Correct. State governments make many policies that affect people inside their state.",
+        "incorrectFeedback": "Not quite. The story focuses on state leaders considering rules for their state."
+      },
+      "reflection": {
+        "prompt": "How could water rules affect different groups in a community?",
+        "keywords": ["families", "businesses", "farms", "community", "state", "water", "citizens"],
+        "shortFeedback": "Good start. Add one specific group, such as families, farms, or businesses.",
+        "strongFeedback": "Strong answer. You recognized that one policy can affect different groups in different ways.",
+        "coachingFeedback": "Try naming two groups and explaining how each might be affected."
+      },
+      "connections": ["Federalism", "Public Policy", "Citizenship", "Economy"],
+      "takeaway": "State governments make many decisions that affect local communities and everyday life."
+    },
+    {
+      "day": "Friday",
+      "date": "Sample Friday",
+      "focus": "Citizenship",
+      "focusIcon": "🗳️",
+      "headline": "Local Leaders Encourage More People to Vote in City Elections",
+      "image": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?auto=format&fit=crop&w=1200&q=80",
+      "imageAlt": "Voting stickers on a table",
+      "quickFacts": [
+        "Local elections can affect schools, roads, parks, and public safety.",
+        "Voting is one way citizens participate in democracy.",
+        "Civic participation also includes learning, speaking up, and helping the community."
+      ],
+      "summary": [
+        "Local leaders are encouraging more people to vote in city elections. They say local government decisions can affect issues people see every day, including parks, roads, public safety, and community programs.",
+        "Many people pay attention to national elections, but local elections can also be very important. A small number of voters can sometimes decide who leads a city or school district.",
+        "Citizenship is not only about voting. It also means staying informed, listening to others, asking questions, and taking part in your community. Even students who cannot vote yet can build civic knowledge now."
+      ],
+      "vocabulary": [
+        {"term":"Election", "match":"A process where people vote to choose leaders or decide issues."},
+        {"term":"Democracy", "match":"A system where people have power through voting and participation."},
+        {"term":"Civic Participation", "match":"Taking part in your community and government."}
+      ],
+      "question": {
+        "prompt": "Why can local elections matter?",
+        "options": ["They can affect issues people see every day", "They replace the Constitution every year", "They are only for national leaders", "They stop citizens from participating"],
+        "answerIndex": 0,
+        "correctFeedback": "Correct. Local elections can affect schools, roads, parks, and other community issues.",
+        "incorrectFeedback": "Almost. Local elections matter because they can affect everyday community issues."
+      },
+      "reflection": {
+        "prompt": "What is one way students can practice civic participation before they are old enough to vote?",
+        "keywords": ["learn", "community", "participate", "questions", "informed", "help", "school"],
+        "shortFeedback": "Good start. Add one specific action a student could take.",
+        "strongFeedback": "Excellent. You named a realistic way students can participate before voting age.",
+        "coachingFeedback": "Try explaining one action, such as learning about issues, helping your community, or asking questions."
+      },
+      "connections": ["Voting", "Citizenship", "Government Power"],
+      "takeaway": "Citizens can participate in democracy by voting, staying informed, and helping their communities."
+    }
+  ]
+}
